@@ -1,5 +1,5 @@
-## Supabase Practice Project
-# Overview
+# Supabase Practice Project
+## Overview
 
 This is a practice project created to explore and learn Supabase integration.
 The goal of this project is to understand how to:
@@ -12,7 +12,7 @@ Store and retrieve data from Supabase.
 
 Work with real-time features and database queries.
 
-# Tech Stack
+## Tech Stack
 
 Frontend Framework: React + TypeScript (Vite)
 
